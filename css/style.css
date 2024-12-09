@@ -4,9 +4,9 @@ h1 {
 
 .list-item-mine {
   display: block;
-  padding-left: 2em;
-  padding-bottom: 1em;
-  text-indent: -0.7em;
+  padding-left: 2rem;
+  padding-bottom: 1rem;
+  text-indent: -0.7rem;
   color: inherit;
 }
 
