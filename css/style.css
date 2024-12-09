@@ -2,7 +2,7 @@ h1 {
     color: inherit;
 }
 
-.list-group-mine {
+.list-item-mine {
   display: block;
   padding-left: 2em;
   padding-bottom: 1em;
@@ -16,7 +16,7 @@ h1 {
 }
 
 .bi-linkedin-mine {
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .montserrat-normal-100 {
